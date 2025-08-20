@@ -4,6 +4,8 @@ This project is focused on detecting pneumonia using chest X-ray images.
 The dataset is divided into **training**, **testing**, and **validation** sets, each containing images of **NORMAL** and **PNEUMONIA** cases.
 
 ---
+Dataset link : https://www.kaggle.com/datasets/vedantrs7020/chest-x-ray-for-pnumonia/
+---
 
 ## 📂 Project Structure
 
