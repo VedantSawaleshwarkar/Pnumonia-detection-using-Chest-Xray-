@@ -1,17 +1,13 @@
 Proprietary License - All Rights Reserved
-
 Copyright (c) 2026 Vedant Ram Sawaleshwarkar. All rights reserved.
 
 This software, including all its source code, assets, datasets, trained models, documentation, and related materials, is the exclusive, private, and proprietary property of Vedant Ram Sawaleshwarkar.
 
 1. Grant of License:
-
 This software is provided solely for personal and private use by its owner. No license, express or implied, is granted to any other person, entity, or third party to use, run, modify, distribute, or otherwise exploit this software.
 
 2. Restrictions:
-
 Under no circumstances may any part of this source code, assets, datasets, trained models, documentation, or compiled binaries be:
-
 * Copied, duplicated, reproduced, or cloned.
 * Shared, distributed, published, or transmitted to any third party.
 * Uploaded to public repositories, hosting sites, or file-sharing platforms without explicit prior permission.
@@ -20,29 +16,21 @@ Under no circumstances may any part of this source code, assets, datasets, train
 * Used to train, improve, benchmark, evaluate, or develop any machine learning, artificial intelligence, computer vision, or medical imaging systems.
 
 3. Ownership:
-
 All rights, title, interest, and intellectual property rights in and to this software (including but not limited to source code, machine learning models, datasets, training pipelines, neural network architectures, algorithms, documentation, visual designs, and project materials) shall remain exclusively with Vedant Ram Sawaleshwarkar.
 
 4. Termination:
-
 Any unauthorized use, copying, distribution, modification, or exploitation of this software automatically terminates any rights of use and may constitute a violation of applicable intellectual property and copyright laws.
 
 5. Public Repository Notice
-
 The availability of this source code in a public or private repository does not grant any right to use, copy, modify, distribute, or create derivative works from the software.
-
 Access to the source code does not imply permission to use it.
 
 6. Trademark and Branding
-
 The names "Pneumonia Detection using Chest X-Ray", associated logos, branding elements, visual identities, project names, and related marks may not be used without prior written permission from the copyright holder.
 
 Licensing Requests:
-
 For permission requests, commercial licensing, partnerships, research collaborations, or other inquiries, contact:
-
 Vedant Ram Sawaleshwarkar
-
 Email: [vedantsawaleshwarkar@gmail.com](mailto:vedantsawaleshwarkar@gmail.com)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OF MEDICAL PREDICTIONS, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, MEDICAL DECISIONS, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
